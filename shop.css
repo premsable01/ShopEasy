@@ -1,0 +1,49 @@
+body { font-family: Arial, sans-serif; 
+    padding: 0%;
+    margin: 2%;
+}
+
+#myshop{
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    background-color: red;
+    text-align: center;
+    padding: 10px;
+}
+        
+.product { border: 1px solid #ddd; 
+    padding: 10px; margin: 10px; 
+    width: 200px; 
+    display: inline-block; 
+    text-align: center; 
+}
+        
+button { background: green; 
+    color: white; 
+    border: none; 
+    padding: 8px; 
+    cursor: pointer; 
+}
+        
+#cart { margin-top: 20px; 
+    padding: 10px; 
+    border: 2px solid black; 
+}
+
+#but{
+    height: 50px;
+    width: 70px;
+    border: solid black;
+    background-color: red;
+}
+
+#butt{
+    background-color: black;
+}
+
+.ddiv{
+    text-align: center;
+}
