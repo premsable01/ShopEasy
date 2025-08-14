@@ -21,3 +21,11 @@ let cartItems = [];
         
         document.getElementById("cart").innerHTML = html;
     }
+
+document.querySelector("#but").addEventListener("click", function(){
+    window.location.href = "welcomepage.html";
+});
+
+document.querySelector("#butt").addEventListener("click", function(){
+    window.location.href = "nextshop1.html";
+});
