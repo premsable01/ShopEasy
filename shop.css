@@ -8,7 +8,7 @@ body { font-family: Arial, sans-serif;
     justify-content: center;
 }
 
-h1{
+#mys{
     background-color: red;
     text-align: center;
     padding: 10px;
@@ -45,5 +45,15 @@ button { background: green;
 }
 
 .ddiv{
+    text-align: center;
+}
+
+.tnk{
+    color: black;
+    text-align: center;
+}
+
+.n1{
+    color: black;
     text-align: center;
 }
